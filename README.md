@@ -14,7 +14,7 @@ I’m a **Senior Go Developer** with 5+ years in fintech and performance enginee
 - **Languages**: Go, TypeScript, Python, Bash
 - **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions
 - **Specialties**: Microservices, Payment Processing, Performance Profiling, CI/CD
-- **AI & LLMs**: Integrating large language models (e.g., Ollama) for performance insights and natural language search
+- **AI & LLMs**: Integrating large language models via API calls or local deployment (e.g., Ollama) for performance optimization and natural language search
 
 ---
 
