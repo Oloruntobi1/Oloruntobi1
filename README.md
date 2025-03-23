@@ -2,10 +2,10 @@
 
 I’m a **Senior Go Developer** with 5+ years in fintech and performance engineering, passionate about building scalable systems that don’t buckle under pressure. I’ve led backend teams, optimized payment platforms, and sprinkled some AI magic—including LLMs—into profiling and tracing tools.
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Go](https://img.shields.io/badge/Go-66B2CC?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5A8DB0?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5B86C2?style=flat&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FFAA33?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
